@@ -1,0 +1,50 @@
+{
+  "users": {
+    "115903": {
+      "id": "115903",
+      "name": "Baha",
+      "password": "$2a$10$jRcgG7ZLSQeQ7RFDP3a/BOBx/oCBKNu.DV81Ger.8RXyeFawxSIkC",
+      "createdAt": "2026-02-04T07:18:24.147Z"
+    },
+    "2368427": {
+      "id": "2368427",
+      "name": "bharath",
+      "password": "$2a$10$/sCz6Bq3kitWworhUAnmwOAd/m8tN.H3g4YkS2ZHk3l/xvyFaQq3y",
+      "createdAt": "2026-02-04T06:57:54.890Z"
+    },
+    "4580875": {
+      "id": "4580875",
+      "name": "gaga",
+      "password": "$2a$10$9nvZiSN001lDZI4LslA45.7zE9iElUh6BaQSqmil2Egkkii.GTZn2",
+      "createdAt": "2026-02-04T06:59:58.108Z"
+    }
+  },
+  "contacts": {
+    "115903": [
+      {
+        "id": "2368427",
+        "name": "Bsnsj",
+        "addedAt": "2026-02-04T07:18:45.419Z"
+      }
+    ],
+    "2368427": [
+      {
+        "id": "4580875",
+        "name": "gaa",
+        "addedAt": "2026-02-04T07:00:15.007Z"
+      },
+      {
+        "id": "115903",
+        "name": "jhvschb",
+        "addedAt": "2026-02-04T07:18:58.076Z"
+      }
+    ],
+    "4580875": [
+      {
+        "id": "2368427",
+        "name": "hhh",
+        "addedAt": "2026-02-04T07:00:29.887Z"
+      }
+    ]
+  }
+}
